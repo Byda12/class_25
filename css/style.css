@@ -1,0 +1,25 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.navbar-brand,.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family: "Lobster", sans-serif;
+}
+
+/* Main part from home Page */
+#body{
+    padding-top: 80px;
+}
+
+/* About Page part starts */
+.table>tbody>tr.danger>td{
+    background-color: purple;
+}
+.table>tbody>tr.ghum>td{
+    background-color: rgb(31, 70, 136);
+}
+.table>tbody>tr.utheJao>td{
+    background-color: cyan;
+}
+.table>tbody>tr.khubValo>td{
+    background-color: rgb(161, 152, 57);
+}
